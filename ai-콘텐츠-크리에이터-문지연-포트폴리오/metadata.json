@@ -1,0 +1,6 @@
+{
+  "name": "AI 콘텐츠 크리에이터 문지연 포트폴리오",
+  "description": "AI 기술과 디지털 마케팅을 융합하는 크리에이터 문지연의 전문 포트폴리오 홈페이지입니다. Apple 스타일의 미니멀한 UI와 세련된 디자인을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
