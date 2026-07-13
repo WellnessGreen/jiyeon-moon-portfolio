@@ -1,0 +1,6 @@
+{
+  "name": "숲속 바둑 놀이터",
+  "description": "초등학생을 위한 귀엽고 따뜻한 숲속 분위기의 교육용 바둑 놀이터 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
